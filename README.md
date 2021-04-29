@@ -1,4 +1,4 @@
-TEMPLATE TAKEN AND ADAPTED FROM [Neil's example repo](https://github.com/hube12/GPUExample)
+TEMPLATE TAKEN AND ADAPTED FROM [Neil's & Earthcomputer's Template](https://github.com/Earthcomputer/GPUTemplate)
 
 For Ubuntu Linux:
 ```
@@ -9,7 +9,7 @@ apt instal opencl-headers
 
 Then (cross-platform):
 ```
-git clone https://github.com/Earthcomputer/GPUTemplate
+git clone https://github.com/JimTheScientist/EarlyAlphaSeedTemplate/
 cmake .
 make
 ```
